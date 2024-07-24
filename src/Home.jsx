@@ -24,8 +24,8 @@ import viteLogo from '/vite.svg'
           </p>
         </div>
         <div className='Buttons'> 
-          <a href="/test-vite/page1"><button>Page1</button></a>
-          <a href="/test-vite/page2"><button>Page2</button></a>
+          <a href="/page1"><button>Page1</button></a>
+          <a href="/page2"><button>Page2</button></a>
         </div>
         <p className="read-the-docs">
           Click on the Vite and React logos to learn more

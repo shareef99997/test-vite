@@ -10,9 +10,9 @@ function App() {
   const renderPage = () => {
     const path = window.location.pathname;
     switch (path) {
-      case '/test-vite/page1':
+      case '/page1':
         return <Page1 />;
-      case '/test-vite/page2':
+      case '/page2':
         return <Page2 />;
 
       case '/':
