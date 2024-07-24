@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+.Buttons{
+  justify-content: space-around;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
